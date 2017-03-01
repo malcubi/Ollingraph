@@ -2,6 +2,7 @@
 ###   OLLINGRAPH   ###
 ######################
 Version 1.0:   Miguel Alcubierre, February 2017.
+
 Contact:       malcubi@nucleares.unam.mx
 
 This is a python code to plot simple graphs and animations.
